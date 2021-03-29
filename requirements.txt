@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+sklearn
+requests
+bs4
+xlrd >= 1.0.0
+openpyxl
+pymssql
