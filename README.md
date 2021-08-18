@@ -1,3 +1,4 @@
+```bash
 .
 ├── README.md
 ├── bert.py
@@ -25,3 +26,4 @@
     ├── lib
     ├── pyvenv.cfg
     └── share
+```
